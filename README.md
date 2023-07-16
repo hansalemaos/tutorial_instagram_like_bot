@@ -13,6 +13,10 @@
  
  https://github.com/hansalemaos/check_if_nan
 
+
+###Instale Instagram lite:
+
+https://play.google.com/store/apps/details?id=com.instagram.lite&hl=pt_BR
  
 [![YT](https://i.ytimg.com/vi/9k1zG-STuX8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9k1zG-STuX8)
 [https://www.youtube.com/watch?v=9k1zG-STuX8]()
