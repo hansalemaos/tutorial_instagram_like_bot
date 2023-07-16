@@ -4,10 +4,15 @@
 ###  pip install adbkit a-cv2-calculate_simlilarity a-cv-imwrite-imread-plus a-pandas-ex-apply-ignore-exceptions get-consecutive-filename check-if-nan
 
  https://github.com/hansalemaos/adbkit
+ 
  https://github.com/hansalemaos/a_cv_imwrite_imread_plus
+ 
  https://github.com/hansalemaos/a_pandas_ex_apply_ignore_exceptions
+ 
  https://github.com/hansalemaos/get_consecutive_filename
+ 
  https://github.com/hansalemaos/check_if_nan
+
  
 [![YT](https://i.ytimg.com/vi/9k1zG-STuX8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9k1zG-STuX8)
 [https://www.youtube.com/watch?v=9k1zG-STuX8]()
